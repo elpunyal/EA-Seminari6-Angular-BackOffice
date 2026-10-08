@@ -1,5 +1,5 @@
 # BackOWIAffice — Autores y libros
-Video: https://drive.google.com/file/d/1WoDeGr1g1WQrgCCI19xRsBeu9VtKpj3O/view?usp=drive_link
+Video: https://drive.google.com/file/d/1BvNRptItjR3LUs1ePlgtCchDj8J2MRcb/view?usp=drive_link
 
 
 Backoffice hecho con Angular 21 (TypeScript, RxJS y Vitest para los tests) para el Seminario 6 de EA.
